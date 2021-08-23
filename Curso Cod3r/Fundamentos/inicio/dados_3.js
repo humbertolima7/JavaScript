@@ -1,0 +1,15 @@
+//TIPO NUMBER
+let idade = 31;
+console.log(typeof idade);
+console.log(typeof 31);
+
+let salario = 4578.32;
+console.log(typeof salario);
+
+// TIPO BOOLEAN
+let estaChovendo = true // ou false
+console.log(typeof estaChovendo);
+
+// TIPO STRING
+console.log(typeof "Teste");
+console.log(typeof 'Teste');
